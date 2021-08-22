@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<Records>
+    <City id="1">
+        <City-Name>Belagavi</City-Name>
+        <Longitude>78</Longitude>
+        <Latitude>13</Latitude>
+        <Temperature>30</Temperature>
+        <Humidity>90%</Humidity>
+    </City>
+
+</Records>
